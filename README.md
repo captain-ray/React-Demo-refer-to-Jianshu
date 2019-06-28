@@ -1,5 +1,11 @@
 ## A React Demo refer to [website of 简书](https://www.jianshu.com/).
 
+
+
+#### [Demo in the codesandbox](https://codesandbox.io/s/github/captain-ray/React-Demo-refer-to-Jianshu)
+
+
+
 #### <u>Skill Set:</u>
 
 - **React.js**
@@ -14,12 +20,14 @@
 
 
 
-
-
 #### <u>Reflection after doing  this demo:</u>
 
 - have a better understanding of **data-driven** concept & **component** concept in React.js
 - redux helps manage the  state by creating a central store
+
+
+
+
 
 
 
