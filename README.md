@@ -25,9 +25,9 @@
 
 
 
-![Screen Shot 2019-06-28 at 10.34.25 pm](../../../../Desktop/Screen Shot 2019-06-28 at 10.34.25 pm.png)
 
 
+![1](demo_images/1.png)
 
 
 
