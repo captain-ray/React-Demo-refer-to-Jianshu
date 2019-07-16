@@ -6,7 +6,7 @@
 
 
 
-#### <u>Skill Set:</u>
+#### <u>Toolkit:</u>
 
 - **React.js**
 - **Redux, React-Redux**
